@@ -1,0 +1,16 @@
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.exe
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.deps.json
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.runtimeconfig.json
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.runtimeconfig.dev.json
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.dll
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\ref\poo-concepts.dll
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\bin\Debug\net5.0\poo-concepts.pdb
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.csproj.AssemblyReference.cache
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.AssemblyInfoInputs.cache
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.AssemblyInfo.cs
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.dll
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\ref\poo-concepts.dll
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.pdb
+C:\Users\aliss\Documents\Cursos\SchoolOfNet\C#_Orientacao_Objetos\poo-concepts\obj\Debug\net5.0\poo-concepts.genruntimeconfig.cache
